@@ -1,0 +1,14 @@
+1) Por que é importante realizar backups regulares?
+
+R: Pois você estará protegido de algum problema que existir com os arquivos e outras coisas.
+
+2) Que diferenças existem entre backups locais (pen USB) e backups em nuvem?
+
+R: Nos backups locais você pode perder ou ele pode ser destruído, na nuvem você tem menos armazenamento porém não se perde.
+
+3) Que vantagens e desvantagens encontraste em cada método utilizado?
+
+R: Backups Locais: Vantagens - Mais rápido o acesso aos arquivos; Mais vantajoso economicamente. Desvantagens - Podem se perder e ser destruído mais facilmente.
+
+Backups em Nuvem: Vantagens - Armazenamento gratuito; Pode ser acessado por vários dispositivos diferentes.
+Desvantagens - Para ter mais armazenamento precisa pagar.
