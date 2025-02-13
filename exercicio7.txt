@@ -1,0 +1,14 @@
+A Ana recebeu um e-mail, aparentemente do seu banco, informando que a sua conta foi bloqueada e que deve clicar num link para resolver a situação. O e-mail tem o logótipo do banco e um link que a leva para uma página idêntica ao site oficial. Sem pensar, a Ana insere os seus dados no login. Poucas horas depois, percebe que foram feitas transferências da sua conta sem a sua autorização.
+
+1- Que tipo de ataque Ana sofreu?
+2- Que sinais poderiam indicar que o e-mail era falso?
+3- O que é que a Ana deveria ter feito antes de clicar no link e inserir os seus dados?
+4- Que medidas ela pode tomar agora para minimizar os danos?
+
+1: Phishing.
+
+2: Ver quem era o dono desse site e a url do link, para ser seguro deve ser https.
+
+3: Deveria ver quem era o dono desse site e a url do link, para ser seguro deve ser https.
+
+4: Desativar a conta e trocar de senha.
